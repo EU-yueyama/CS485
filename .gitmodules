@@ -1,0 +1,8 @@
+[submodule "fishing-game"]
+	path = fishing-game
+	url = https://github.com/EU-yueyama/ledmatrix.git
+	branch = fishing
+[submodule "okmatrix"]
+	path = okmatrix
+	url = https://github.com/EU-yueyama/ledmatrix.git
+	branch = okmatrix
